@@ -128,7 +128,7 @@ export function AdminSidebar({
         >
           <Box className="h-6 w-6 text-primary" />
           {!collapsed && (
-            <span className="whitespace-nowrap">E-Commerce Admin</span>
+            <span className="whitespace-nowrap">Guru battery Admin</span>
           )}
         </Link>
         <Button

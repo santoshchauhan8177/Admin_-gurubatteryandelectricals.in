@@ -19,7 +19,7 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "Admin Dashboard - E-commerce",
+  title: "Admin Dashboard - Guru battery and electricals",
   description: "Modern e-commerce admin dashboard with complete management features",
 }
 

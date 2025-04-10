@@ -74,7 +74,7 @@ export default function LoginPage() {
       <Card className="w-full max-w-md">
         <CardHeader className="space-y-1">
           <div className="flex items-center justify-center mb-4">
-            <Box className="h-10 w-10 text-primary" />
+            {/* <Box className="h-10 w-10 text-primary" /> */}
           </div>
           <CardTitle className="text-2xl text-center font-heading">Admin Login</CardTitle>
           <CardDescription className="text-center">
